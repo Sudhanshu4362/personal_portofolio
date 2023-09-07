@@ -181,7 +181,7 @@ export const education = [
     school: "Maharaja Agrasen Institute of Technology,New Delhi",
     date: "Aug 2019 - Aug 2023",
     grade: "8.6 CGPA",
-    desc: "I am  pursued a Bachelor's degree in Electronics and communication engineering at Maharaja Agrasen Institute of Technology, New Delhi. I've completed my B.tech with a CGPA of 8.6. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "I've completed my Bachelor's degree in Electronics and communication engineering at Maharaja Agrasen Institute of Technology, New Delhi. I've completed my B.tech with a CGPA of 8.6. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -189,8 +189,8 @@ export const education = [
     img: "https://raw.githubusercontent.com/Sudhanshu4362/portofolio_images/main/Readme_resource/Image4.png",
     school: "SBM Sr Sec School, New Delhi",
     date: "Apr 2017 - Apr 2018",
-    grade: "68%",
-    desc: "I completed my class 12 high school education at SB Mills Sr. Sec.  School, New Delhi, where I studied Science with Computer Science(PCM).",
+    grade: "73%",
+    desc: "I've completed my class 12 high school education at SB Mills Sr. Sec.  School, New Delhi, where I studied Science with Computer Science(PCM).",
     degree: "AISSCE(Class XII), Science with Computer",
   },
   {
@@ -199,30 +199,43 @@ export const education = [
     school: "Govt. Sarvodaya vidyalaya,East Punjabi Bagh, New Delhi",
     date: "Apr 2015 - Apr 2016",
     grade: "79.8%",
-    desc: "I completed my class 10 education at Govt. Sarvodaya vidyalaya,East Punjabi Bagh, New Delhi",
+    desc: "I've completed my class 10 education at Govt. Sarvodaya vidyalaya,East Punjabi Bagh, New Delhi",
     degree: "AISSE(Class X)",
   },
 ];
 
 export const projects = [
   {
-    // id: 9,
-    // title: "Movie-List app",
-    // date: "Aug 2022",
-    // description:
-    //   "Movie-list is web app that conatins movies and home page and favourite movies on favourites page,where we can perform multiple operations on it like sorting,searching,filtering etc. Movies are fetched from TMDB database using API called AXIOS.",
-    // image:
-    //   "https://raw.githubusercontent.com/Sudhanshu4362/movieListApp/main/Readme_resource/Image1.png",
-    // tags: ["HTML", "CSS", "Bootstrap", "JavaScript", "React JS", "Material UI"],
-    // category: "frontend",
-    // github: "https://github.com/Sudhanshu4362/movieListApp",
-    // webapp: "https://movie-app-by-sudhanshumishra.netlify.app/#",
+    id: 9,
+    title: "Movix",
+    date: "Aug 2023",
+    description:
+      "Movie-list is web app that conatins movies and Tv Shows ,where we can perform multiple operations on it like sorting,searching,filtering etc. and we can watch videos, Trailers related to that movie. Movies are fetched from TMDB database using API called AXIOS.",
+    image:
+      "https://raw.githubusercontent.com/Sudhanshu4362/movix/main/Readme_resource/Img1.png",
+    tags: ["HTML", "SCSS", "Bootstrap", "JavaScript", "React JS", "","Material UI"],
+    category: "frontend",
+    github: "https://github.com/Sudhanshu4362/movix",
+    webapp: "https://movix-by-sudhanshumishra.netlify.app/",
+  }
+  ,{ 
+    id: 9,
+    title: "My Portfolio",
+    date: "Aug 2023",
+    description:
+      "Created a personal portfolio project for me having information like Education,Skills,Experience etc.",
+    image:
+      "https://raw.githubusercontent.com/Sudhanshu4362/personal_portofolio/main/Readme_resource/Img1.png",
+    tags: ["HTML", "CSS", "Bootstrap", "JavaScript", "React JS", "Material UI"],
+    category: "frontend",
+    github: "https://github.com/Sudhanshu4362/personal_portofolio",
+    webapp: "https://my-personal-portofolio5.netlify.app/",
   },
 
   {
     id: 9,
-    title: "Movie-List app",
-    date: "Aug 2022",
+    title: "Movix app",
+    date: "Aug 2023",
     description:
       "Movie-list is web app that conatins movies and home page and favourite movies on favourites page,where we can perform multiple operations on it like sorting,searching,filtering etc. Movies are fetched from TMDB database using API called AXIOS.",
     image:
