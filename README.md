@@ -1,3 +1,17 @@
+# Portfolio
+Created a portfolio presenting information like education,skills,experience etc.
+
+## Demo
+  <b>Link:<b/> https://movie-app-by-sudhanshumishra.netlify.app/#
+  <p>
+  <img src="./Readme_resource/Img1.png" width="800" >
+  <img src="./Readme_resource/Img2.png" width="800" >
+  <img src="./Readme_resource/Img3.png" width="800" >
+  <img src="./Readme_resource/Img4.png" width="800" >
+  <img src="./Readme_resource/Img5.png" width="800" >
+  <img src="./Readme_resource/Img6.png" width="800" >
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
