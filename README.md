@@ -2,7 +2,7 @@
 Created a portfolio presenting information like education,skills,experience etc.
 
 ## Demo
-  <b>Link:<b/> https://movie-app-by-sudhanshumishra.netlify.app/#
+  <b>Link:<b/> https://my-personal-portofolio5.netlify.app//#
   <p>
   <img src="./Readme_resource/Img1.png" width="800" >
   <img src="./Readme_resource/Img2.png" width="800" >
